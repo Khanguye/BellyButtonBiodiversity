@@ -57,6 +57,6 @@ Create a realtime dashbroad to visualize the bacterial data for each volunteer i
 
 **Iphone or Note10**
 
-![Belly_Mobile.png](static/images/UFOs_Mobile.png)
+![Belly_Mobile.png](static/images/Belly_Mobile.png)
 
 
