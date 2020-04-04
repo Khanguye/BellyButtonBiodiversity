@@ -40,7 +40,7 @@ Create a realtime dashbroad to visualize the bacterial data for each volunteer i
 
 **Resources**
 --
-1. [plot.js](static/js/plot.js) <-- the javascript (Charting)
+1. [plots.js](static/js/plots.js) <-- the javascript (Charting)
 2. [index.html](index.html) <-- the html (Dashboard Viewer)
 3. [samples.js](static/data/samples.json) <-- the data (Model)
 
@@ -57,6 +57,6 @@ Create a realtime dashbroad to visualize the bacterial data for each volunteer i
 
 **Iphone or Note10**
 
-![Belly_Mobile.png](static/images/UFOs_Mobile.png)
+![Belly_Mobile.png](static/images/Belly_Mobile.png)
 
 
