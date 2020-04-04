@@ -74,6 +74,8 @@ function top10BacterialSpecies(sample){
    let sampledata = data.samples;
    //find first match sample id
    let result = sampledata.find(sampleObj => sampleObj.id == sample);
+   
+   //sample_values have been sorted, do not to sort
    //assign arrays
    let sample_values = result.sample_values.slice(0,10).reverse();
    let otu_ids = result.otu_ids.slice(0,10).map( value=> `OTU ${value}`).reverse();
