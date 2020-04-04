@@ -5,7 +5,7 @@ var selector = d3.select("#selDataset");
 //Program is started from Init 
 function init() {
 
-  //Make a requestion to samples.json
+  //Make a request to samples.json
   d3.json("static/data/samples.json").then((dataJson) => {
     //console.log(dt);
 
